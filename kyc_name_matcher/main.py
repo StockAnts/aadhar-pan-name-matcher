@@ -184,7 +184,7 @@ def match_aadhar(aadhar_name, pan_name):
 
 
 # aadhar_name = "Mayur Rajendra Fegde"
-# pan_name = "Fegde Mayur Rajendra"
-aadhar_name = "solanki rajesh hirabhai"
-pan_name = "rajesh hirabhai solanki"
-print(match_aadhar(aadhar_name=aadhar_name, pan_name=pan_name))
+# # pan_name = "Fegde Mayur Rajendra"
+# aadhar_name = "solanki rajesh hirabhai"
+# pan_name = "rajesh hirabhai solanki"
+# print(match_aadhar(aadhar_name=aadhar_name, pan_name=pan_name))
